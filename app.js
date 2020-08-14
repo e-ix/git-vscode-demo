@@ -1,3 +1,1 @@
-console.log('Helloworld!');
-console.log('Hello citizens!');
-console.log('Goodbye!');
+alert('What the! This is a long awaited change!')
